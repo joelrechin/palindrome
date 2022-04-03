@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1557714722 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 15\assignment 15.2\main.cpp
+	<iostream>
+	<cctype>
+	"MyString.h"
+
+1557633685 c:\users\joel\documents\school\spring 19\cs10b\assignment 15\assignment 15.2\mystring.h
+	<iostream>
+	<cctype>
+	<string>
+	<string.h>
+
+1557697349 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 15\assignment 15.2\mystring.cpp
+	"Mystring.h"
+	<iostream>
+	<cassert>
+	<cctype>
+	<string>
+	<string.h>
+
+1556670112 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 12\mystring\mystring.cpp
+	"Mystring.h"
+	<iostream>
+	<cassert>
+	<cctype>
+	<string>
+	<string.h>
+
+1556670159 c:\users\joel\documents\school\spring 19\cs10b\assignment 12\mystring\mystring.h
+	<iostream>
+	<cctype>
+	<string>
+	<string.h>
+
